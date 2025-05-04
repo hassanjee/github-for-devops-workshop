@@ -1,1 +1,1 @@
-This is my first git vcs python program
+Git vcs python program
