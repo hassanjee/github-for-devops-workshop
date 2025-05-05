@@ -14,3 +14,9 @@ def make_api_request():
 
 # Call the function
 make_api_request()
+
+# Define a list
+my_list = [1, 2, 3, "apple", "banana"]
+
+# Print the list
+print(my_list)
