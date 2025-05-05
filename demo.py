@@ -6,4 +6,4 @@ def my_function():
 
 
 my_function()
-API_KEY = "8530432HEJF94MGJG94MFG9GGKD"
+API_KEY = "AIzaSyDaGmWKa4JsXZ-HjGw7ISLn_3namBGewQe"
