@@ -1,6 +1,6 @@
 # Example Python script with fake API keys (DO NOT USE IN PRODUCTION)
 
-API_KEY = "12345-INVALID-API-KEY"
+API_KEY = "12345-INVALSID-API-KEY"
 SECRET_KEY = "ABCDE-FAKE-SECRET"
 ACCESS_TOKEN = "not-a-real-token-98765"
 
