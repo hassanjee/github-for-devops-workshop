@@ -2,7 +2,7 @@
 
 API_KEY = "12345-INVALID-API-KEY"
 secret = "ABCDE-FAKE-SECRET"
-token = "not-a-real-token-986SS5"
+token = "not-a-real-token-9854446435"
 
 # Function to simulate API request
 def make_api_request():
