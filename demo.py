@@ -1,13 +1,13 @@
 # Example Python script with fake API keys (DO NOT USE IN PRODUCTION)
 
 API_KEY = "12345-INVALID-API-KEY"
-secret = "ABCDE-FAKE-SECRET"
-token = "not-a-real-token-9854446435"
+SECRET = "ABCDE-FAKE-SECRET"
+TOKEN = "not-a-real-token-9854446435"
 
 # Function to simulate API request
 def make_api_request():
     headers = {
-        "Authorization": f"Bearer {token}",
+        "Authorization": f"Bearer {TOKEN}",
         "X-API-KEY": API_KEY
     }
     print("Making API request with headers:", headers)
